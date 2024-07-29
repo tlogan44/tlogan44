@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tlogan44
-- 👀 I’m interested in Python, Javascript, HTML5 Canvas, R
+- 👀 I’m interested in Python, Javascript, HTML5 Canvas, R, SVG
 
 <!---
 - 🌱 I’m currently learning ...
